@@ -7,5 +7,6 @@ public class git {
         System.out.println("HelloWorld");
         System.out.println("2022.4.3");
         System.out.println("2022.4.3.18:37");
+        System.out.println("HelloGitee");
     }
 }
